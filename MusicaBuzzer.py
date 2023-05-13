@@ -2,7 +2,7 @@
 Site for midi to json convertion:
 visipiano.com/midi-to-json-converter
 '''
-#free source
+# free source
 
 false = False  # json files have false as lower case,this sets it to upper case
 
