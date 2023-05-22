@@ -4,7 +4,7 @@ visipiano.com/midi-to-json-converter
 '''
 # free source
 
-false = False  # json files have false as lower case,this sets it to upper case
+false = False  # json files have false as lower case, this sets it to upper case (default in python)
 
 # midi archive in json format
 midi = {
